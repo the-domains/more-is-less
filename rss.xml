@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[more is less]]></title>
+        <description><![CDATA[more is less]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 16:51:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I worked hard to get moreonly to discover the more I hadthe less I could enjoy anything.</p>]]></description>
+            <link>undefined880617e0-0a79-44d3-9bd1-e0fdea48a7f7/index.html</link>
+            <guid isPermaLink="false">880617e0-0a79-44d3-9bd1-e0fdea48a7f7</guid>
+            <pubDate>Sat, 26 Mar 2016 16:51:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
