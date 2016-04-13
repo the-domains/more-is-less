@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[more is less]]></title>
         <description><![CDATA[more is less]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/more-is-less/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 16:51:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 22:13:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/more-is-less/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[stuff.]]></title>
+            <description><![CDATA[<h1>stuff.</h1>]]></description>
+            <link>https://thegrid.ai/more-is-less/stuff/index.html</link>
+            <guid isPermaLink="false">74f8cf6e-298d-4d28-a516-537eb3098de0</guid>
+            <pubDate>Wed, 13 Apr 2016 22:13:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I worked hard to get moreonly to discover the more I hadthe less I could enjoy anything.</p>]]></description>
-            <link>undefined880617e0-0a79-44d3-9bd1-e0fdea48a7f7/index.html</link>
+            <link>https://thegrid.ai/more-is-less/880617e0-0a79-44d3-9bd1-e0fdea48a7f7/index.html</link>
             <guid isPermaLink="false">880617e0-0a79-44d3-9bd1-e0fdea48a7f7</guid>
             <pubDate>Sat, 26 Mar 2016 16:51:48 GMT</pubDate>
         </item>
